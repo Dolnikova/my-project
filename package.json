@@ -1,0 +1,22 @@
+{
+  "name": "my-project",
+  "version": "1.0.0",
+  "description": "тестовый репозиторий",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dolnikova/my-project.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dolnikova/my-project/issues"
+  },
+  "homepage": "https://github.com/Dolnikova/my-project#readme",
+  "dependencies": {
+    "validator": "^13.7.0"
+  }
+}
